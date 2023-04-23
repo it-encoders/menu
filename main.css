@@ -26,9 +26,6 @@
     border-radius: 16px;
     background-color: var(--color-mid);
   }
-  /* Тут надо открыть браузер и посмотреть */
-
-  /* Продолжаем */
 
   .iconDiv {
     height: 36px;
@@ -49,9 +46,6 @@
     height: 36px;
     aspect-ratio: 1 / 1;
   }
- /* Тут надо открыть браузер и посмотреть */
-
-  /* Продолжаем */
   
   .iconDiv:hover,
   .iconDiv:focus-visible {
@@ -84,10 +78,6 @@
     }
   }
 
-   /* Тут надо открыть браузер и посмотреть */
-
-
-  /* Пишем Этот код  */
   .spacer {
     flex-grow: 1;
   }
@@ -100,10 +90,7 @@
     background-color: var(--color-dark);
   }
 
-  /* Смотрим В браузере */
-
-
-  
+ 
   
   
   
